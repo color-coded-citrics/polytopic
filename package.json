@@ -1,0 +1,21 @@
+{
+  "name": "polytopic",
+  "displayName": "polytopic",
+  "description": "Polytopia-inspired collection of themes for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Polytopic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Polytopic-color-theme.json"
+      }
+    ]
+  }
+}
